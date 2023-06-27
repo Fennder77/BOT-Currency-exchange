@@ -1,4 +1,4 @@
-import telebot
+import telebot#telegram
 import config
 import pb
 import datetime
